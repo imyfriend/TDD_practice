@@ -1,4 +1,6 @@
-package com.example.tdd;
+package com.example.tdd.hamcrest;
+
+import com.example.tdd.Dollar;
 
 import org.junit.Test;
 

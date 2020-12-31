@@ -1,4 +1,4 @@
-package com.example.tdd;
+package com.example.tdd.junit;
 
 import org.junit.After;
 import org.junit.AfterClass;
